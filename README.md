@@ -56,3 +56,7 @@ In case You want to run & implement project on your system then follow these ste
 7. Chatting with the Documents: After uploading and processing the PDF documents, you can ask questions by typing them in the text input field. Press Enter or click the "Ask" button to submit your question.
 
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
+
+
+![image](https://github.com/user-attachments/assets/387871f4-4294-4541-977e-1e98150c7e0c)
+
